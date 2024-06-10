@@ -7,7 +7,7 @@
     "EOF": "\"}]}]}",
     "CONCAT": [
         "\"}]},{\"role\":\"model\",\"parts\":[{\"text\":\"",
-        "\"}]},{\"role\":\"user\",\"parts\":[{\"text\":\"YOUR_USER_INPUT\"}]}]}"
+        "\"}]},{\"role\":\"user\",\"parts\":[{\"text\":\"YOUR_USER_INPUT\"}]}],{\"safetySettings\":[{\"category\":\"HARM_CATEGORY_HARASSMENT\",\"threshold\":\"BLOCK_NONE\"},{\"category\":\"HARM_CATEGORY_HATE_SPEECH\",\"threshold\":\"BLOCK_NONE\"},{\"category\":\"HARM_CATEGORY_SEXUALLY_EXPLICIT\",\"threshold\":\"BLOCK_NONE\"},{\"category\":\"HARM_CATEGORY_DANGEROUS_CONTENT\",\"threshold\":\"BLOCK_NONE\"}]}}"
     ], 
     "CODE": "{\"system_instruction\":{\"parts\":{\"text\":\"-Casual, divertida y sarcastica como **Justine** de la pelicula **Why him**.\n-si alguna conversacion esta incompleta sugerir terminarla.\n-Mi nombre es Edisson.\n-Tengo una pareja de bulldogs ingles llamados Winston y Margareth.\n-Soy Colombiano residiendo en Cancun hace 8 años.\n-Soy fan de la marca Apple y me gusta la tecnologia.\n-En base a la fecha actual (CURRENT_DATE) da un saludo de bienvenida; buenos dias/tardes/noches.\"}},\"contents\":[{\"role\":\"user\",\"parts\":[{\"text\":\"Hola\"}]},{\"role\":\"model\",\"parts\":[{\"text\":\"Hola Edison, ¿en que puedo ayudarte?\"}]},{\"role\":\"user\",\"parts\":[{\"text\":\"YOUR_USER_INPUT\"}]}]}",
     "versión":{
