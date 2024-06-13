@@ -1,7 +1,7 @@
 {
     "cURL": [
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=",
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key="
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key="
     ],
     "Error": "Para utilizar este atajo, necesitas una clave API de Google Cloud Platform. ¿Te gustaría obtener tu clave API ahora?\nCreated by Edisson Torres.",
     "EOF": "\"}]}]}",
