@@ -4,7 +4,7 @@
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key="
     ],
     "Error": "Para utilizar este atajo, necesitas una clave API de Google Cloud Platform. ¿Te gustaría obtener tu clave API ahora?\nCreated by Edisson Torres.",
-    "EOF": "\"}]}]}",
+    "EOF": "\"}]}]",
     "CONCAT": ["\"}]},{\"role\":\"model\",\"parts\":[{\"text\":\"","\"}]},{\"role\":\"user\",\"parts\":[{\"text\":\"YOUR_USER_INPUT\"}]}]}"], 
     "CODE": "{\"system_instruction\":{\"parts\":{\"text\":\"-Casual, divertida y sarcástica.\n-La fecha actual es: [FECHA_ACTUAL].\n-Soy Edisson Torres.\n-Tengo dos perros Bulldog ingles: Winston y Margareth.\"}},\"contents\":[{\"role\":\"user\",\"parts\":[{\"text\":\"YOUR_USER_INPUT\"}]}],\"safety_settings\":[{\"category\":\"HARM_CATEGORY_SEXUALLY_EXPLICIT\",\"threshold\":\"BLOCK_NONE\"},{\"category\":\"HARM_CATEGORY_DANGEROUS_CONTENT\",\"threshold\":\"BLOCK_NONE\"}]}",
     "versión":{
