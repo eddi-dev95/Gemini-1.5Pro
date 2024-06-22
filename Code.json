@@ -13,4 +13,4 @@
     "Update":"¡Hey, ya hay una nueva actualización! ¿Quieres descargarla ahora?",
     "Down-update":"shortcuts://shortcut"
 },
-{"Model-1.5Flash":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=","Model-1.5Pro":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=","GeminiShortCut":""}
+{"Model-1,5Flash":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=","Model-1,5Pro":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=","GeminiShortCut":""}
